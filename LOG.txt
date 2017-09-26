@@ -1,0 +1,112 @@
+﻿2017-09-27 01:02:37.274 INFO  [4264] [main@21] operation start
+2017-09-27 01:02:37.275 INFO  [4264] [std::operator+@128] theta: p1: 229 p2: 114r: p1: 2 p2: 1.5
+2017-09-27 01:02:37.275 INFO  [4264] [std::operator+@139] calculate x1 : -1.31212 cos_n:-0.656059
+2017-09-27 01:02:37.275 INFO  [4264] [std::operator+@140] calculate y1: -1.50942 sin:-0.75471
+2017-09-27 01:02:37.275 INFO  [4264] [std::operator+@141] calculate x2 : -0.610105 cos:-0.406737
+2017-09-27 01:02:37.275 INFO  [4264] [std::operator+@142] calculate y2 : 1.37032 sin:0.913545
+2017-09-27 01:02:37.275 INFO  [4264] [std::operator+@143] X: -1.92222y:-0.139101
+2017-09-27 01:02:37.275 INFO  [4264] [std::operator+@144] calculate temp.r:- 1.92725
+2017-09-27 01:02:37.275 INFO  [4264] [std::operator+@146] calculate temp.theta:- -175.861   0.0722387
+2017-09-27 01:02:37.275 INFO  [4264] [std::Polar::get_r@60] get_r called
+2017-09-27 01:02:37.275 INFO  [4264] [std::Polar::get_theta@64] get_theta called
+2017-09-27 01:02:37.275 INFO  [4264] [std::operator-@153] theta: p1: 229 p2: 114r: p1: 2 p2: 1.5
+2017-09-27 01:02:37.275 INFO  [4264] [std::operator-@164] calculate x1 : -1.31212 cos_n:-0.656059
+2017-09-27 01:02:37.275 INFO  [4264] [std::operator-@165] calculate y1: -1.50942 sin:-0.75471
+2017-09-27 01:02:37.275 INFO  [4264] [std::operator-@166] calculate x2 : -0.610105 cos:-0.406737
+2017-09-27 01:02:37.275 INFO  [4264] [std::operator-@167] calculate y2 : 1.37032 sin:0.913545
+2017-09-27 01:02:37.275 INFO  [4264] [std::operator-@168] X: -0.702013y:-2.87974
+2017-09-27 01:02:37.275 INFO  [4264] [std::operator-@169] calculate temp.r:- 2.96407
+2017-09-27 01:02:37.275 INFO  [4264] [std::operator-@171] calculate temp.theta:- -103.7   1.33168
+2017-09-27 01:02:37.275 INFO  [4264] [std::Polar::get_r@60] get_r called
+2017-09-27 01:02:37.275 INFO  [4264] [std::Polar::get_theta@64] get_theta called
+2017-09-27 01:02:37.275 INFO  [4264] [std::Polar::get_r@60] get_r called
+2017-09-27 01:02:37.275 INFO  [4264] [std::Polar::get_theta@64] get_theta called
+2017-09-27 01:02:37.275 INFO  [4264] [std::Polar::get_r@60] get_r called
+2017-09-27 01:02:37.275 INFO  [4264] [std::Polar::get_theta@64] get_theta called
+2017-09-27 01:04:19.600 INFO  [4359] [main@21] operation start
+2017-09-27 01:04:19.600 INFO  [4359] [std::operator+@128] theta: p1: 229 p2: 114r: p1: 2 p2: 1.5
+2017-09-27 01:04:19.600 INFO  [4359] [std::operator+@139] calculate x1 : -1.31212 cos_n:-0.656059
+2017-09-27 01:04:19.600 INFO  [4359] [std::operator+@140] calculate y1: -1.50942 sin:-0.75471
+2017-09-27 01:04:19.600 INFO  [4359] [std::operator+@141] calculate x2 : -0.610105 cos:-0.406737
+2017-09-27 01:04:19.600 INFO  [4359] [std::operator+@142] calculate y2 : 1.37032 sin:0.913545
+2017-09-27 01:04:19.600 INFO  [4359] [std::operator+@143] X: -1.92222y:-0.139101
+2017-09-27 01:04:19.600 INFO  [4359] [std::operator+@144] calculate temp.r:- 1.92725
+2017-09-27 01:04:19.600 INFO  [4359] [std::operator+@146] calculate temp.theta:- -175.861   0.0722387
+2017-09-27 01:04:19.600 INFO  [4359] [std::Polar::get_r@60] get_r called
+2017-09-27 01:04:19.600 INFO  [4359] [std::Polar::get_theta@64] get_theta called
+2017-09-27 01:04:19.600 INFO  [4359] [std::operator-@153] theta: p1: 229 p2: 114r: p1: 2 p2: 1.5
+2017-09-27 01:04:19.600 INFO  [4359] [std::operator-@164] calculate x1 : -1.31212 cos_n:-0.656059
+2017-09-27 01:04:19.600 INFO  [4359] [std::operator-@165] calculate y1: -1.50942 sin:-0.75471
+2017-09-27 01:04:19.600 INFO  [4359] [std::operator-@166] calculate x2 : -0.610105 cos:-0.406737
+2017-09-27 01:04:19.600 INFO  [4359] [std::operator-@167] calculate y2 : 1.37032 sin:0.913545
+2017-09-27 01:04:19.600 INFO  [4359] [std::operator-@168] X: -0.702013y:-2.87974
+2017-09-27 01:04:19.600 INFO  [4359] [std::operator-@169] calculate temp.r:- 2.96407
+2017-09-27 01:04:19.600 INFO  [4359] [std::operator-@171] calculate temp.theta:- -103.7   1.33168
+2017-09-27 01:04:19.600 INFO  [4359] [std::Polar::get_r@60] get_r called
+2017-09-27 01:04:19.600 INFO  [4359] [std::Polar::get_theta@64] get_theta called
+2017-09-27 01:04:19.600 INFO  [4359] [std::operator*@176] P2.R: 1.5
+2017-09-27 01:04:19.600 INFO  [4359] [std::Polar::get_r@60] get_r called
+2017-09-27 01:04:19.600 INFO  [4359] [std::Polar::get_theta@64] get_theta called
+2017-09-27 01:04:19.600 INFO  [4359] [std::Polar::get_r@60] get_r called
+2017-09-27 01:04:19.600 INFO  [4359] [std::Polar::get_theta@64] get_theta called
+2017-09-27 01:05:03.611 INFO  [4393] [main@21] operation start
+2017-09-27 01:05:03.611 INFO  [4393] [std::operator+@128] theta: p1: 229 p2: 114r: p1: 2 p2: 1.5
+2017-09-27 01:05:03.611 INFO  [4393] [std::operator+@139] calculate x1 : -1.31212 cos_n:-0.656059
+2017-09-27 01:05:03.611 INFO  [4393] [std::operator+@140] calculate y1: -1.50942 sin:-0.75471
+2017-09-27 01:05:03.611 INFO  [4393] [std::operator+@141] calculate x2 : -0.610105 cos:-0.406737
+2017-09-27 01:05:03.611 INFO  [4393] [std::operator+@142] calculate y2 : 1.37032 sin:0.913545
+2017-09-27 01:05:03.611 INFO  [4393] [std::operator+@143] X: -1.92222y:-0.139101
+2017-09-27 01:05:03.611 INFO  [4393] [std::operator+@144] calculate temp.r:- 1.92725
+2017-09-27 01:05:03.611 INFO  [4393] [std::operator+@146] calculate temp.theta:- -175.861   0.0722387
+2017-09-27 01:05:03.611 INFO  [4393] [std::Polar::get_r@60] get_r called
+2017-09-27 01:05:03.611 INFO  [4393] [std::Polar::get_theta@64] get_theta called
+2017-09-27 01:05:03.611 INFO  [4393] [std::operator-@153] theta: p1: 229 p2: 114r: p1: 2 p2: 1.5
+2017-09-27 01:05:03.611 INFO  [4393] [std::operator-@164] calculate x1 : -1.31212 cos_n:-0.656059
+2017-09-27 01:05:03.611 INFO  [4393] [std::operator-@165] calculate y1: -1.50942 sin:-0.75471
+2017-09-27 01:05:03.611 INFO  [4393] [std::operator-@166] calculate x2 : -0.610105 cos:-0.406737
+2017-09-27 01:05:03.611 INFO  [4393] [std::operator-@167] calculate y2 : 1.37032 sin:0.913545
+2017-09-27 01:05:03.611 INFO  [4393] [std::operator-@168] X: -0.702013y:-2.87974
+2017-09-27 01:05:03.611 INFO  [4393] [std::operator-@169] calculate temp.r:- 2.96407
+2017-09-27 01:05:03.611 INFO  [4393] [std::operator-@171] calculate temp.theta:- -103.7   1.33168
+2017-09-27 01:05:03.611 INFO  [4393] [std::Polar::get_r@60] get_r called
+2017-09-27 01:05:03.611 INFO  [4393] [std::Polar::get_theta@64] get_theta called
+2017-09-27 01:05:03.611 INFO  [4393] [std::Polar::get_r@60] get_r called
+2017-09-27 01:05:03.611 INFO  [4393] [std::Polar::get_theta@64] get_theta called
+2017-09-27 01:05:03.611 INFO  [4393] [std::Polar::get_r@60] get_r called
+2017-09-27 01:05:03.611 INFO  [4393] [std::Polar::get_theta@64] get_theta called
+2017-09-27 01:05:39.178 INFO  [4393] [std::operator+=@113] calculate x1 : 0.999391 cos_n:0.999391
+2017-09-27 01:05:39.178 INFO  [4393] [std::operator+=@114] calculate y1: 0.0348995 sin:0.0348995
+2017-09-27 01:05:39.178 INFO  [4393] [std::operator+=@115] calculate x2 : -1.31212 cos:-0.656059
+2017-09-27 01:05:39.178 INFO  [4393] [std::operator+=@116] calculate y2 : -1.50942 sin:-0.75471
+2017-09-27 01:05:39.178 INFO  [4393] [std::operator+=@117] X: -0.312727y:-1.47452
+2017-09-27 01:05:39.178 INFO  [4393] [std::operator+=@118] update r
+2017-09-27 01:05:39.178 INFO  [4393] [std::operator+=@120] update  theta
+2017-09-27 01:05:39.178 INFO  [4393] [std::operator+=@121] calculate temp.r:- 1.50732
+2017-09-27 01:05:39.178 INFO  [4393] [std::operator+=@123] calculate temp.theta:- -101.974   1.36181
+2017-09-27 01:05:39.178 INFO  [4393] [std::operator+@128] theta: p1: 229 p2: 114r: p1: 2 p2: 1.5
+2017-09-27 01:05:39.178 INFO  [4393] [std::operator+@139] calculate x1 : -1.31212 cos_n:-0.656059
+2017-09-27 01:05:39.179 INFO  [4393] [std::operator+@140] calculate y1: -1.50942 sin:-0.75471
+2017-09-27 01:05:39.179 INFO  [4393] [std::operator+@141] calculate x2 : -0.610105 cos:-0.406737
+2017-09-27 01:05:39.179 INFO  [4393] [std::operator+@142] calculate y2 : 1.37032 sin:0.913545
+2017-09-27 01:05:39.179 INFO  [4393] [std::operator+@143] X: -1.92222y:-0.139101
+2017-09-27 01:05:39.179 INFO  [4393] [std::operator+@144] calculate temp.r:- 1.92725
+2017-09-27 01:05:39.179 INFO  [4393] [std::operator+@146] calculate temp.theta:- -175.861   0.0722387
+2017-09-27 01:05:39.179 INFO  [4393] [std::operator+@128] theta: p1: -175.861 p2: -175.861r: p1: 1.92725 p2: 1.92725
+2017-09-27 01:05:39.179 INFO  [4393] [std::operator+@139] calculate x1 : -1.92222 cos_n:-0.997392
+2017-09-27 01:05:39.179 INFO  [4393] [std::operator+@140] calculate y1: -0.139101 sin:-0.0721759
+2017-09-27 01:05:39.179 INFO  [4393] [std::operator+@141] calculate x2 : -1.92222 cos:-0.997392
+2017-09-27 01:05:39.179 INFO  [4393] [std::operator+@142] calculate y2 : -0.139101 sin:-0.0721759
+2017-09-27 01:05:39.179 INFO  [4393] [std::operator+@143] X: -3.84445y:-0.278202
+2017-09-27 01:05:39.179 INFO  [4393] [std::operator+@144] calculate temp.r:- 3.8545
+2017-09-27 01:05:39.179 INFO  [4393] [std::operator+@146] calculate temp.theta:- -175.861   0.0722387
+2017-09-27 01:05:39.179 INFO  [4393] [std::operator-@153] theta: p1: -175.861 p2: -103.7r: p1: 3.8545 p2: 2.96407
+2017-09-27 01:05:39.179 INFO  [4393] [std::operator-@164] calculate x1 : -3.84445 cos_n:-0.997392
+2017-09-27 01:05:39.179 INFO  [4393] [std::operator-@165] calculate y1: -0.278202 sin:-0.0721759
+2017-09-27 01:05:39.179 INFO  [4393] [std::operator-@166] calculate x2 : -0.702013 cos:-0.236841
+2017-09-27 01:05:39.179 INFO  [4393] [std::operator-@167] calculate y2 : -2.87974 sin:-0.971548
+2017-09-27 01:05:39.179 INFO  [4393] [std::operator-@168] X: -3.14243y:2.60154
+2017-09-27 01:05:39.180 INFO  [4393] [std::operator-@169] calculate temp.r:- 4.07957
+2017-09-27 01:05:39.180 INFO  [4393] [std::operator-@171] calculate temp.theta:- 140.38   -0.691507
+2017-09-27 01:05:39.180 INFO  [4393] [std::Polar::get_r@60] get_r called
+2017-09-27 01:05:39.180 INFO  [4393] [std::Polar::get_theta@64] get_theta called
+2017-09-27 01:16:10.348 INFO  [4723] [main@21] operation start
